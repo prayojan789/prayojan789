@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prayojan Puri</h1>
-<h3 align="center">Frontend Developer | Software Engineering Student | Nepal 🇳🇵</h3>
+
+<h3 align="center">⚡ Frontend Developer | Software Engineering Student | Nepal 🇳🇵</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 CONNECT MATRIX
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/prayojanpuri/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35"/>
 </a>
@@ -21,61 +27,59 @@
 <a href="https://www.kaggle.com/prayojanpuri" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="35"/>
 </a>
+
 </p>
 
 ---
-<h3 align="center">⚡ Tech Stack</h3>
+
+## ⚡ CYBER TECH MATRIX
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a2e&height=2"/>
+</p>
 
-<!-- Row 1 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
+</p>
+<p align="center">✦ CORE INTERFACE LAYER ✦</p>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark" />
+</p>
+<p align="center">✦ BACKEND SYSTEM CORE ✦</p>
 
-<!-- Row 2 -->
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dotnet&theme=dark" />
+</p>
+<p align="center">✦ ENGINEERING CORE LAYER ✦</p>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,bash,linux,git&theme=dark" />
+</p>
+<p align="center">✦ DEPLOYMENT MATRIX ✦</p>
 
-<!-- Row 3 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,tensorflow,pandas&theme=dark" />
+</p>
+<p align="center">✦ DATA & INTELLIGENCE CORE ✦</p>
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,photoshop,matlab&theme=dark" />
+</p>
+<p align="center">✦ TOOLCHAIN INTERFACE ✦</p>
 
-<!-- Row 4 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
-<img src="https://www.gnu.org/software/bash/bash-logo.svg" width="45"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f0f0f&height=2"/>
+</p>
 
-<br/>
+---
 
-<!-- Row 5 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
+## 🚀 STATUS
 
-<br/>
+<p align="center">
+  ⚡ Building AI-powered systems | Web Apps | Intelligent Interfaces ⚡
+</p>
 
-<!-- Row 6 -->
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=120&section=footer"/>
 </p>
