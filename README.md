@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prayojan Puri</h1>
 
-<h3 align="center">⚡ Frontend Developer | Software Engineering Student | Nepal 🇳🇵</h3>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header"/>
-</p>
+<h3 align="center" style="color:#00ffe1;">
+⚡ Frontend Developer | Software Engineering Student | Nepal 🇳🇵
+</h3>
 
 ---
 
@@ -32,54 +30,48 @@
 
 ---
 
-## ⚡ CYBER TECH MATRIX
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a2e&height=2"/>
-</p>
+## ⚡ TECH MATRIX (DARK MODE OPTIMIZED)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
 </p>
-<p align="center">✦ CORE INTERFACE LAYER ✦</p>
+
+<p align="center"><b style="color:#00ffe1;">✦ CORE INTERFACE LAYER ✦</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark" />
 </p>
-<p align="center">✦ BACKEND SYSTEM CORE ✦</p>
+
+<p align="center"><b style="color:#ff00ff;">✦ BACKEND SYSTEM CORE ✦</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,dotnet&theme=dark" />
 </p>
-<p align="center">✦ ENGINEERING CORE LAYER ✦</p>
+
+<p align="center"><b style="color:#00ff99;">✦ ENGINEERING CORE LAYER ✦</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,bash,linux,git&theme=dark" />
 </p>
-<p align="center">✦ DEPLOYMENT MATRIX ✦</p>
+
+<p align="center"><b style="color:#ffd700;">✦ DEPLOYMENT MATRIX ✦</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,tensorflow,pandas&theme=dark" />
 </p>
-<p align="center">✦ DATA & INTELLIGENCE CORE ✦</p>
+
+<p align="center"><b style="color:#00ffe1;">✦ DATA & INTELLIGENCE CORE ✦</b></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman,photoshop,matlab&theme=dark" />
 </p>
-<p align="center">✦ TOOLCHAIN INTERFACE ✦</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f0f0f&height=2"/>
-</p>
+<p align="center"><b style="color:#ff4d6d;">✦ TOOLCHAIN INTERFACE ✦</b></p>
 
 ---
 
 ## 🚀 STATUS
 
-<p align="center">
-  ⚡ Building AI-powered systems | Web Apps | Intelligent Interfaces ⚡
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=120&section=footer"/>
+<p align="center" style="color:#00ffe1;">
+⚡ Building AI Systems | Web Apps | Intelligent Interfaces ⚡
 </p>
