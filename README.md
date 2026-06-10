@@ -31,7 +31,6 @@
 ---
 
 ## ⚡ TECH MATRIX (DARK MODE OPTIMIZED)
-<img width="1440" height="1422" alt="image" src="https://github.com/user-attachments/assets/b38640c8-6a2e-4095-a9a2-bc8890279bf6" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
